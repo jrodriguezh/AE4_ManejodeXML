@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ciudad>
+    <nombre>Madrid</nombre>
+    <barrios>
+        <barrio>
+            <nombre>Moratalaz</nombre>
+            <habitantes>4000</habitantes>
+            <centroDeportivos>
+                <centroDeportivo>
+                    <nombre>Municipal</nombre>
+                    <horario>9:00 a 20:00</horario>
+                    <direccion>
+                        <calle>C. Valdebernardo</calle>
+                        <numero>2</numero>
+                    </direccion>
+                    <clases>
+                        <clase>
+                            <nombre>Spinning</nombre>
+                            <hora>10</hora>
+                            <profesor>
+<nombre>Roberto</nombre>
+<edad>23</edad>
+<altura>1.89</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Mario</nombre>
+    <edad>14</edad>
+    <categoria>Cadete</categoria>
+</alumno>
+<alumno>
+    <nombre>Pablo</nombre>
+    <edad>15</edad>
+    <categoria>Cadete</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                        <clase>
+                            <nombre>Judo</nombre>
+                            <hora>16</hora>
+                            <profesor>
+<nombre>Carlos</nombre>
+<edad>19</edad>
+<altura>1.9</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Steven</nombre>
+    <edad>12</edad>
+    <categoria>Infantil</categoria>
+</alumno>
+<alumno>
+    <nombre>Javier</nombre>
+    <edad>13</edad>
+    <categoria>Infantil</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                    </clases>
+                </centroDeportivo>
+                <centroDeportivo>
+                    <nombre>Trece Rosas</nombre>
+                    <horario>8:00 a 22:00</horario>
+                    <direccion>
+                        <calle>Av. de las Trece Rosas</calle>
+                        <numero>6</numero>
+                    </direccion>
+                    <clases>
+                        <clase>
+                            <nombre>Spinning</nombre>
+                            <hora>10</hora>
+                            <profesor>
+<nombre>Cristina</nombre>
+<edad>25</edad>
+<altura>1.72</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Sofia</nombre>
+    <edad>16</edad>
+    <categoria>Junior</categoria>
+</alumno>
+<alumno>
+    <nombre>Jorge</nombre>
+    <edad>16</edad>
+    <categoria>Junior</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                        <clase>
+                            <nombre>Judo</nombre>
+                            <hora>18</hora>
+                            <profesor>
+<nombre>Maria</nombre>
+<edad>34</edad>
+<altura>1.66</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Laura</nombre>
+    <edad>23</edad>
+    <categoria>Senior</categoria>
+</alumno>
+<alumno>
+    <nombre>Raul</nombre>
+    <edad>26</edad>
+    <categoria>Senior</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                    </clases>
+                </centroDeportivo>
+            </centroDeportivos>
+        </barrio>
+        <barrio>
+            <nombre>Vallecas</nombre>
+            <habitantes>20000</habitantes>
+            <centroDeportivos>
+                <centroDeportivo>
+                    <nombre>Vallecas</nombre>
+                    <horario>14:00 a 00:00</horario>
+                    <direccion>
+                        <calle>C. Mohernando</calle>
+                        <numero>1</numero>
+                    </direccion>
+                    <clases>
+                        <clase>
+                            <nombre>Spinning</nombre>
+                            <hora>10</hora>
+                            <profesor>
+<nombre>Roberto</nombre>
+<edad>23</edad>
+<altura>1.89</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Mario</nombre>
+    <edad>14</edad>
+    <categoria>Cadete</categoria>
+</alumno>
+<alumno>
+    <nombre>Pablo</nombre>
+    <edad>15</edad>
+    <categoria>Cadete</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                        <clase>
+                            <nombre>Judo</nombre>
+                            <hora>16</hora>
+                            <profesor>
+<nombre>Carlos</nombre>
+<edad>19</edad>
+<altura>1.9</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Steven</nombre>
+    <edad>12</edad>
+    <categoria>Infantil</categoria>
+</alumno>
+<alumno>
+    <nombre>Javier</nombre>
+    <edad>13</edad>
+    <categoria>Infantil</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                    </clases>
+                </centroDeportivo>
+                <centroDeportivo>
+                    <nombre>Rayo Vallecano</nombre>
+                    <horario>8:00 a 22:00</horario>
+                    <direccion>
+                        <calle>C. del Payaso Fofó</calle>
+                        <numero>0</numero>
+                    </direccion>
+                    <clases>
+                        <clase>
+                            <nombre>Spinning</nombre>
+                            <hora>10</hora>
+                            <profesor>
+<nombre>Cristina</nombre>
+<edad>25</edad>
+<altura>1.72</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Sofia</nombre>
+    <edad>16</edad>
+    <categoria>Junior</categoria>
+</alumno>
+<alumno>
+    <nombre>Jorge</nombre>
+    <edad>16</edad>
+    <categoria>Junior</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                        <clase>
+                            <nombre>Judo</nombre>
+                            <hora>18</hora>
+                            <profesor>
+<nombre>Maria</nombre>
+<edad>34</edad>
+<altura>1.66</altura>
+                            </profesor>
+                            <alumnos>
+<alumno>
+    <nombre>Laura</nombre>
+    <edad>23</edad>
+    <categoria>Senior</categoria>
+</alumno>
+<alumno>
+    <nombre>Raul</nombre>
+    <edad>26</edad>
+    <categoria>Senior</categoria>
+</alumno>
+                            </alumnos>
+                        </clase>
+                    </clases>
+                </centroDeportivo>
+            </centroDeportivos>
+        </barrio>
+    </barrios>
+</ciudad>
